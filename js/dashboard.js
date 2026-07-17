@@ -1,0 +1,1 @@
+// Dashboard page - reserved for future dynamic data loading
